@@ -58,7 +58,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="mt-8 max-w-md leading-8 text-ink-soft md:mt-10">
-            台南玉井山腳下的家族果園，三代人只做一件事——種芒果。
+            台南玉井山腳下的家族果園，五代人只做一件事——種芒果。
             樹上自然熟成、逐顆手工挑選，採收當天低溫直送到你家。
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-6 sm:gap-8">
